@@ -21,4 +21,5 @@
   <a href="https://www.linkedin.com/in/xxxxx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![snake gif](https://github.com/jhonyvieira99/jhonyvieira99/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=jhonyvieira99&repo=jhonyvieira99&theme=react)](https://github.com/jhonyvieira99/jhonyvieira99)
 </div>
